@@ -1,0 +1,83 @@
+#posi1{
+    background-color: black;
+   text-align: center; 
+   color:white;
+}
+#posi2{
+    text-align: center;
+    background-color: grey;
+    color:white;
+}
+#posi3{
+    text-align: center;
+    background-color: grey;
+    color:white;
+}
+#posi4{
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+#posi6{
+    text-align: center;
+    background-color: black;
+    color: azure;
+   
+
+}
+#posi7{
+    text-align: center;
+    background-color: grey;
+    color:white;
+}
+#posi9{
+    text-align: center;
+    background-color: black;
+    color:azure;
+}
+#posi10{
+    text-align: center;
+    background-color: grey;
+    color:white;
+}
+#posi11{
+    text-align: center;
+    background-color: grey;
+    color:white;
+}
+#posi12{
+    text-align: center;
+    background-color: black;
+    color:azure;
+}
+#posi14{
+    text-align: center;
+    background-color: black;
+    color:azure;
+}
+#posi13{
+    text-align: center;
+    background-color: grey;
+    color:azure;
+}
+#posi15{
+    text-align: center;
+    background-color: pink;
+}
+#posi16{
+    text-align: center;
+    background-color: pink;
+}
+#posi17{
+    text-align: center;
+    background-color: pink;
+}
+#posi20{
+    padding-left: 30px;
+    
+    display:grid;
+    flex-direction: row;
+    
+
+
+}
